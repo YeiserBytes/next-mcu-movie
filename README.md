@@ -1,5 +1,7 @@
 # Proyecto de la Próximas Películas del Universo Cinematográfico de Marvel (MCU)
 
+![Vista previa](./preview.png)
+
 Este proyecto es parte del curso de PHP impartido por [Midudev](https://github.com/midudev), donde se implementa una aplicación web para mostrar información sobre las próximas películas del Universo Cinematográfico de Marvel (MCU) utilizando la API proporcionada por [When is the Next MCU Film?](https://whenisthenextmcufilm.com/api).
 
 ## Descripción 🎉
